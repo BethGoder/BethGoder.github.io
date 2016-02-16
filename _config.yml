@@ -10,8 +10,6 @@ url: "http://bethgoder.com" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
-permalink: pretty
-relative_permalinks: true
 paginate: 5
 
 author:
