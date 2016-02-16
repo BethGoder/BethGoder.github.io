@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "The List"
 date: 2015-12-17 22:04:51
 ---
