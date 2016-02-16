@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 
   She has a degree in information science from the University of Michigan and lives in the San Francisco Bay Area.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://bethgoder.com" # the base hostname & protocol for your site
+url: "http://bethgoder.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
