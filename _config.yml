@@ -10,6 +10,14 @@ url: "http://bethgoder.com" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
+permalink: pretty
+relative_permalinks: true
+paginate: 5
+
+author:
+  name: Beth Goder
+  email: beth.goder@gmail.com
+
 timezone: America/Los_Angeles
 defaults:
   -
