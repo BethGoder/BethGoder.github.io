@@ -3,7 +3,6 @@ title: Beth Goder
 email: beth.goder@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Beth Goder worked as an archivist at Stanford before becoming a full-time mom to wonderful twin girls. Now she enjoys writing speculative fiction stories about archives, memory, records, and the relationship between the past and present.
-
   She has a degree in information science from the University of Michigan and lives in the San Francisco Bay Area.
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://bethgoder.github.io" # the base hostname & protocol for your site
