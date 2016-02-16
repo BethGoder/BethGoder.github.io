@@ -40,6 +40,10 @@ body {
   overflow-x: hidden;
 }
 
+body {
+  display: flex;
+}
+
 html {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
 }
@@ -141,9 +145,6 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Style and "hide" the sidebar */
 .sidebar {
-  position: fixed;
-  top: 0;
-  bottom: 0;
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
