@@ -26,6 +26,7 @@ defaults:
     values:
       layout: "post"
 
-gems:
-- jekyll-redirect-from
-- jekyll-sitemap
+ gems:
+ - jekyll-redirect-from
+ - jekyll-sitemap
+ - jekyll-paginate
