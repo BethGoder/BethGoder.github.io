@@ -1,5 +1,4 @@
 ---
 title: This is a Test2
-date: 2016-02-13
 ---
 # HI!
