@@ -3,9 +3,11 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-#### Forthcoming
 
-"Windows". _Escape Pod_, 2016.
+#### 2016
+
+["Windows"](http://escapepod.org/2016/02/29/ep523-windows/). _Escape Pod_, February 2016.
+["The Wish Giver](https://zeteticrecord.org/2016/02/the-wish-giver/)._Zetetic: A Record of Unusual Inquiry_, February 2016.
 
 #### 2015
 
