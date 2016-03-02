@@ -1,5 +1,5 @@
 ---
-title: "The Wish Giver" Published at Zetetic
+title: The Wish Giver Published at Zetetic
 date: 2016-02-29 14:24:58
 ---
 
