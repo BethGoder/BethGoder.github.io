@@ -1,6 +1,6 @@
 ---
 title: Windows Published at Escape Pod
-date: 2016-03-03 14:24:58
+date: 2016-03-03 07:24:58
 ---
 
 ["Windows"](http://escapepod.org/2016/02/29/ep523-windows/) is up at *Escape Pod* for Artemis Rising II.
