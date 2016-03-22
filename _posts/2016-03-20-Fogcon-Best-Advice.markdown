@@ -1,5 +1,5 @@
 ---
-title: FOGcon panel: The Best Advice I Never Got
+title: FOGcon panel--The Best Advice I Never Got
 date: 2016-03-20 20:44:40
 ---
 
