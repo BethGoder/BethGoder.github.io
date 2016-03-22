@@ -27,7 +27,6 @@ Disclaimer: This isn't an exact transcript. Lots of stuff is paraphrased, and ev
 18. It's necessary to have moral support as a writer
 
 And here are my notes on craft:
-
 1. Writing often gets good when you stop thinking about craft and just tell your story
 2. Your process can change
 3. If you get stuck, try writing just one sentence. Then after a few days of that, try one paragraph. Then one page.
