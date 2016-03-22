@@ -3,7 +3,7 @@ title: FOGcon panel--The Best Advice I Never Got
 date: 2016-03-20 20:44:40
 ---
 
-Here are my notes from a super useful panel on writing. The wonderful panelists (Kyle Aisteach, Effie Seiberg, Cassie Alexander, and Vylar Kaftan) were kind enough to share their wisdom about writing, life, and the business side of things.
+Here are my notes from a super useful panel on writing. The wonderful panelists (Kyle Aisteach, Effie Seiberg, Cassie Alexander, Vylar Kaftan, and Katharine Kerr) were kind enough to share their wisdom about writing, life, and the business side of things.
 
 Disclaimer: This isn't an exact transcript. Lots of stuff is paraphrased, and everything is filtered through my brain, so no promises about accuracy.
 
