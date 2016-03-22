@@ -25,10 +25,8 @@ Disclaimer: This isn't an exact transcript. Lots of stuff is paraphrased, and ev
 16. Don't be so eager to sell that you fall prey to a scam or sell to a shady venue
 17. Don't be afraid to walk away from a sale if you need to
 18. It's necessary to have moral support as a writer
-
-And here are my notes on craft:
-1. Writing often gets good when you stop thinking about craft and just tell your story
-2. Your process can change
-3. If you get stuck, try writing just one sentence. Then after a few days of that, try one paragraph. Then one page.
-4. When possible, be honest with yourself, and filter all writing tips through your own situation. Do what works for you.
-5. Your first draft can be bad
+19. Writing often gets good when you stop thinking about craft and just tell your story
+20. Your process can change
+21. If you get stuck, try writing just one sentence. Then after a few days of that, try one paragraph. Then one page.
+22. When possible, be honest with yourself, and filter all writing tips through your own situation. Do what works for you.
+23. Your first draft can be bad
