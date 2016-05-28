@@ -4,6 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
+#### Forthcoming
+
+["Eating the Sun.] _Mothership Zeta_, 2016
+
 #### 2016
 
 ["Windows."](http://escapepod.org/2016/02/29/ep523-windows/) _Escape Pod_, February 2016.
