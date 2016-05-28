@@ -6,7 +6,7 @@ permalink: /publications/
 
 #### Forthcoming
 
-["Eating the Sun."] _Mothership Zeta_, 2016
+"Eating the Sun." _Mothership Zeta_, 2016
 
 #### 2016
 
