@@ -7,6 +7,7 @@ permalink: /publications/
 #### Forthcoming
 
 "Eating the Sun." _Mothership Zeta_, 2016
+
 "Murder or a Duck." _Escape Pod_, TBA
 
 #### 2016
