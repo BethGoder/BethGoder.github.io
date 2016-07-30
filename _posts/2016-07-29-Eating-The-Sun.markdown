@@ -1,5 +1,5 @@
 ---
-title: "Eating the Sun" in Mothership Zeta
+title: Eating the Sun Published in Mothership Zeta
 date: 2016-07-29 14:59:02
 ---
 It's up! You can find my story about an alien-godling and sentient sun in [Issue Four of Mothership Zeta](http://mothershipzeta.org/2016/07/28/issue-4-is-out-now/#more-535). Space poetry, an epic journey, and an ending that I hope will make you smile.
