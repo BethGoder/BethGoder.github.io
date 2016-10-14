@@ -7,7 +7,7 @@ permalink: /publications/
 
 #### 2016
 
-["Murder or a Duck."](http://escapepod.org/2016/10/13/ep545-murder-or-a-duck/)_Escape Pod_, October 2016
+["Murder or a Duck."](http://escapepod.org/2016/10/13/ep545-murder-or-a-duck/) _Escape Pod_, October 2016
 
 "Eating the Sun." _Mothership Zeta_, [Issue 4](http://mothershipzeta.org/2016/07/28/issue-4-is-out-now/), July 2016
 
