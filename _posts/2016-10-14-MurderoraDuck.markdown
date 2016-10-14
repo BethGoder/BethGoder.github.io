@@ -3,7 +3,7 @@ title: Murder or a Duck Published
 date: 2016-10-14 010:24:58
 ---
 
-Time travel. Afternoon tea. Scandal. My new story, ["Murder or a Duck,"]( http://escapepod.org/2016/10/13/ep545-murder-or-a-duck/) is up at Escape Pod.
+Time travel. Afternoon tea. Scandal. My new story, ["Murder or a Duck,"]( http://escapepod.org/2016/10/13/ep545-murder-or-a-duck/) is up at _Escape Pod_.
 
 Snippet:
 
