@@ -8,6 +8,7 @@ Time travel. Afternoon tea. Scandal. My new story, ["Murder or a Duck,"]( http:/
 Snippet:
 
 > The convergence point, for once, was clear. To discover Mrs. Lane’s intentions, she only needed to determine if the park on Stanton Street still existed. If the park was there, murder. If not, the duck.
+
 [Read or listen to the rest here.]( http://escapepod.org/2016/10/13/ep545-murder-or-a-duck/)
 
 Many thanks to Amy H. Sturgis for her wonderful narration and Alasdair Stuart for the thoughtful comments at the end of the podcast. 
