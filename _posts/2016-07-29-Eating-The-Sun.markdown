@@ -12,6 +12,6 @@ Every year, my writing group holds a flash fiction contest. It's a super fun way
 
 I often don't understand the heart of a story until after I've written it. After taking in the insightful feedback from my writing group, I let this one sit for a few weeks. In revision, I didn't change much, but I did shift more focus onto the fourth planet--that hope of life, which I think is at the center of the story.
 
-When I got the acceptance from Mothership Zeta, I was sitting on the floor at library storytime with my family. There was much huzzahing! Next, the story went through edits with Sunil Patel, whose thoughtful comments had me exclaiming, "Yes, that's it! That's exactly what the story needs!"
+When I got the acceptance from Mothership Zeta, I was sitting on the floor at library storytime with my family. There was much huzzahing! 
 
 I'm super happy to see the story out in the world.
