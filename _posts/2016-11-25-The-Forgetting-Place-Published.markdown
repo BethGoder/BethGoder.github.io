@@ -7,6 +7,7 @@ date: 2016-11-25 010:24:58
 My story ["The Forgetting Place,"]( https://zeteticrecord.org/2016/11/the-forgetting-place/) is up at _Zetetic: A Record of Unusual Inquiry_.
 
 Snippet:
+
 > In the Forgetting Place, a person forgets two things—a memory of happiness, a memory of sorrow. Sometimes it is the same memory.
 
 [You can read the rest here.]( https://zeteticrecord.org/2016/11/the-forgetting-place/)
