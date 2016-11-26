@@ -1,5 +1,3 @@
-Publication of The Forgetting Place
-
 2016-11-25-TheForgettingPlace.markdown
 ---
 title: The Forgetting Place Published
