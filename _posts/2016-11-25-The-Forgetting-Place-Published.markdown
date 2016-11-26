@@ -1,4 +1,3 @@
-2016-11-25-TheForgettingPlace.markdown
 ---
 title: The Forgetting Place Published
 date: 2016-11-25 010:24:58
