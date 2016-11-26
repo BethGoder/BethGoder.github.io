@@ -4,7 +4,7 @@ date: 2016-11-25 010:24:58
 ---
 
 
-My story ["The Forgetting Place,"]( https://zeteticrecord.org/2016/11/the-forgetting-place/) is up at _Zetetic: A Record of Unusual Inquiry_.
+My story ["The Forgetting Place"]( https://zeteticrecord.org/2016/11/the-forgetting-place/) is up at _Zetetic: A Record of Unusual Inquiry_.
 
 Snippet:
 
