@@ -7,7 +7,7 @@ permalink: /publications/
 
 #### 2016
 
-["The Forgetting Place."](https://zeteticrecord.org/2016/11/the-forgetting-place/)_Zetetic: A Record of Unusual Inquiry_, November 2016
+["The Forgetting Place."](https://zeteticrecord.org/2016/11/the-forgetting-place/) _Zetetic: A Record of Unusual Inquiry_, November 2016
 
 ["Murder or a Duck."](http://escapepod.org/2016/10/13/ep545-murder-or-a-duck/) _Escape Pod_, October 2016
 
