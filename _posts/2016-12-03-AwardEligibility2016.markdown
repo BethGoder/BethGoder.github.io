@@ -1,10 +1,9 @@
 ---
-title: Award Eligibility 2016
+title: 2016 in Review
 date: 2016-12-03 010:24:58
 ---
 
-It's that time of year. Science fiction and fantasy authors everywhere are posting lists of their award eligible work. This is my first year participating! Achievement unlocked? 
-Here's a list of my award eligible work for 2016:
+Here's a list of my stories published in 2016:
 
 ### [Murder or a Duck]( http://escapepod.org/2016/10/13/ep545-murder-or-a-duck/) (4,000 words, Escape Pod)
 
