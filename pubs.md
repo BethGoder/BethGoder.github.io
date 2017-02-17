@@ -5,6 +5,11 @@ permalink: /publications/
 ---
 
 
+####Forthcoming
+
+"To the Eggplant Cannon." _Metaphorosis_, 2017
+
+
 #### 2016
 
 ["The Forgetting Place."](https://zeteticrecord.org/2016/11/the-forgetting-place/) _Zetetic: A Record of Unusual Inquiry_, November 2016
