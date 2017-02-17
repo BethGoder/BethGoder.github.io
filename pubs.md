@@ -5,12 +5,12 @@ permalink: /publications/
 ---
 
 
-#### Forthcoming
+#### __Forthcoming__
 
 "To the Eggplant Cannon." _Metaphorosis_, 2017
 
 
-#### 2016
+#### __2016__
 
 ["The Forgetting Place."](https://zeteticrecord.org/2016/11/the-forgetting-place/) _Zetetic: A Record of Unusual Inquiry_, November 2016
 
@@ -23,6 +23,6 @@ permalink: /publications/
 
 ["The Wish Giver."](https://zeteticrecord.org/2016/02/the-wish-giver/) _Zetetic: A Record of Unusual Inquiry_, February 2016
 
-#### 2015
+#### __2015__
 
 ["The Sound That Carries Across the Ocean."](http://freezeframefiction.com/read/q6-flash-fiction/the-sound-that-carries-across-the-ocean-by-beth-goder/) _Freeze Frame Fiction_, October 2015
