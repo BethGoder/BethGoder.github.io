@@ -13,11 +13,11 @@ So here's my list. I'm putting it in alphabetical order by title. If you're nomi
 
 "The Elixar of Not-So-Digusting Death Smell." Carlie St. George, _Mothership Zeta_
 
+["Fish Dance"]( http://clarkesworldmagazine.com/schwitzgebel_07_16/) Eric Schwitzgebel, _Clarkesworld_
+
 ["Forever Now"]( http://www.firesidefiction.com/issue32/chapter/forever-now/) A.E. Decker, _Fireside Fiction_
 
 "For the Children." Jamie Wahls, _Mothership Zeta_
-
-["Fish Dance"]( http://clarkesworldmagazine.com/schwitzgebel_07_16/) Eric Schwitzgebel, _Clarkesworld_
 
 ["Lazarus and the Amazing Phoenix Kid"]( http://www.apex-magazine.com/lazarus-and-the-amazing-kid-phoenix/) Jennifer Giesbrecht, _Apex Magazine_
 
