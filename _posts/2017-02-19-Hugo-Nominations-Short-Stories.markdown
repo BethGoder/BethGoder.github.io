@@ -1,5 +1,5 @@
 ---
-title: Hugo Nominations for Short Stories
+title: Hugo Nomination Considerations for Short Stories
 date: 2017-02-19 010:24:58
 ---
 
