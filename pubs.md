@@ -7,7 +7,7 @@ permalink: /publications/
 
 #### __Forthcoming__
 
-"To the Eggplant Cannon." _Metaphorosis_, 2017
+"To the Eggplant Cannon." _Metaphorosis_, April 2017
 
 
 #### __2016__
