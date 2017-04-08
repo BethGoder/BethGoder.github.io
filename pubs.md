@@ -8,6 +8,7 @@ permalink: /publications/
 #### __Forthcoming__
 
 "To the Eggplant Cannon." _Metaphorosis_, April 2017
+
 "Pulling Secrets from Stones." _Mythic_, TBA
 
 
