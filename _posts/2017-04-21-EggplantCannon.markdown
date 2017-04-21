@@ -7,6 +7,7 @@ Take one magician, place her in a vegetable-themed amusement park, and make her 
 
 Snippet:
 > The amusement park was so large that it had two trains named after root vegetables. Vienne got on the wrong one.
+
 [Read the rest here.]( http://magazine.metaphorosis.com/story/2017/to-the-eggplant-cannon-beth-goder/)
 
 Although I'm interested in magic, I've never performed a trick myself--unless you count that time when I was eight and made a salt shaker disappear (by dropping it onto my lap).
