@@ -27,7 +27,7 @@ I'd like to blame my tiny hands, but I imagine the real problem is my lack of pr
 
 The next move is the double-lift. Surprisingly, I found the lift easier than the fan, although I can only manage a satisfactory lift one out of every ten times.
 
-![I am holding two cards. This is a secret!](/images/doublelift. png)
+![I am holding two cards. This is a secret!](/images/doublelift.png)
 
 This trick never goes right for me. I'm still trying to get that darn fan to work, and I'm not comfortable with the double-lift, either. 
 
