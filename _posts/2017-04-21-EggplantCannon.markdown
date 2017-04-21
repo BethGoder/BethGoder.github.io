@@ -19,20 +19,28 @@ For this trick, you need to know two moves: the fan and the double-lift.
 
 ![The fan. Pick a card, any card.](/images/fan.png)
 
+[The fan. Pick a card, any card.]
+
 I practiced the fan for hours, and I still can't get it right. I go too slowly or quickly, the cards clump up, and I can never get a satisfying grip. The first time I asked someone to draw a card, the whole deck went spinning out of my hand.
 
 I'd like to blame my tiny hands, but I imagine the real problem is my lack of practice, knowledge, dedication, and talent. But also, I have really tiny hands.
 
 ![My hands are the tiny ones.](/images/tinyhands.png)
 
+[My hands are the tiny ones.]
+
 The next move is the double-lift. Surprisingly, I found the lift easier than the fan, although I can only manage a satisfactory lift one out of every ten times.
 
 ![I am holding two cards. This is a secret!](/images/doublelift.png)
+
+[I am holding two cards. This is a secret!]
 
 This trick never goes right for me. I'm still trying to get that darn fan to work, and I'm not comfortable with the double-lift, either. 
 
 It turns out, learning a magic trick is hard. Learning to do it well is even harder. To master a trick, magicians have to be incredibly dedicated. I'm in awe of what they do--not only by the effects of their tricks, but by their mastery of a craft. 
 
 ![In which the author learns she is not cut out to be a magician.](/images/droppingcards.png)
+
+[In which the author learns she is not cut out to be a magician]
 
 But as for me, I think I'll stick to writing.
