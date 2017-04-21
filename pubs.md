@@ -10,7 +10,7 @@ permalink: /publications/
 "Pulling Secrets from Stones." _Mythic_, TBA
 
 
-####2017
+#### __2017__
 ["To the Eggplant Cannon." ](http://magazine.metaphorosis.com/story/2017/to-the-eggplant-cannon-beth-goder/)  _Metaphorosis_, April 2017
 
 
