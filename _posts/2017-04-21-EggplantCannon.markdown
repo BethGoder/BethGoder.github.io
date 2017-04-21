@@ -17,7 +17,7 @@ This, intrepid reader, is the story of how I failed to learn ["The Greatest Card
 
 For this trick, you need to know two moves: the fan and the double-lift.
 
-![The fan. Pick a card, any card.] (/images/fan.png)
+![The fan. Pick a card, any card.](/images/fan.png)
 
 I practiced the fan for hours, and I still can't get it right. I go too slowly or quickly, the cards clump up, and I can never get a satisfying grip. The first time I asked someone to draw a card, the whole deck went spinning out of my hand.
 
