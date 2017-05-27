@@ -7,6 +7,8 @@ permalink: /publications/
 
 #### __Forthcoming__
 
+"Murder or a Duck" (reprint). _Time Travel Anthology_  from Flame Tree Press, July 2017.
+
 "Pulling Secrets from Stones." _Mythic_, TBA
 
 
