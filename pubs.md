@@ -9,10 +9,13 @@ permalink: /publications/
 
 "Murder or a Duck" (reprint). _Time Travel Anthology_  from Flame Tree Press, July 2017.
 
-"Pulling Secrets from Stones." _Mythic_, TBA
+
 
 
 #### __2017__
+
+["Pulling Secrets from Stones."](https://www.createspace.com/7272913) _Mythic_, June 2017
+
 ["To the Eggplant Cannon." ](http://magazine.metaphorosis.com/story/2017/to-the-eggplant-cannon-beth-goder/)  _Metaphorosis_, April 2017
 
 
