@@ -1,6 +1,6 @@
 ---
 title: New Story--Pulling Secrets From Stones
-date: 2017-07-02 010:24:58
+date: 2017-07-02 006:24:58
 ---
 My newest story, "Pulling Secrets From Stones," is out in [issue 3 of Mythic Magazine]( https://www.createspace.com/7272913). 
 
