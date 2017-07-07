@@ -9,6 +9,8 @@ permalink: /publications/
 
 "Murder or a Duck" (reprint). _Time Travel Anthology_  from Flame Tree Press, July 2017.
 
+"When All the Clocks Are Wrong." _Escape Pod_, September 2017
+
 
 
 
