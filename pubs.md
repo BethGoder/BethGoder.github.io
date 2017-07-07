@@ -16,7 +16,7 @@ permalink: /publications/
 
 #### __2017__
 
-["Pulling Secrets from Stones."](https://www.createspace.com/7272913) _Mythic_, June 2017
+["Pulling Secrets from Stones."](https://www.amazon.com/Mythic-3-Summer-2017/dp/1945810076) _Mythic_, June 2017
 
 ["To the Eggplant Cannon." ](http://magazine.metaphorosis.com/story/2017/to-the-eggplant-cannon-beth-goder/)  _Metaphorosis_, April 2017
 
