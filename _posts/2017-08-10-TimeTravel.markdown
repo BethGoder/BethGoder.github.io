@@ -1,4 +1,3 @@
-2017-08-10-TimeTravel.markdown
 ---
 title: New Time Travel Anthology
 date: 2017-08-10 010:24:58
