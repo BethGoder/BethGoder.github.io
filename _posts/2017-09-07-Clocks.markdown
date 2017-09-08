@@ -1,5 +1,5 @@
 ---
-title: New Story, When All the Clocks Are Wrong
+title: New Story, "When All the Clocks Are Wrong"
 date: 2017-09-07 010:24:58
 ---
 
@@ -8,7 +8,7 @@ What would happen if time travel existed, but you couldn't control when it happe
 Snippet:
 > Before she reaches the theater, Jen feels a familiar frisson, disorienting, dizzying. When the red lights of the marquee blink 12:45 a.m., Jen isn’t surprised. The clock thing is happening again. She left her house with enough time to meet Ash outside, buy a ticket, grab a soda. But now, it’s 12:45 a.m. One hour later than it should be.
 
-All her life, time has disappeared like this.
+> All her life, time has disappeared like this.
 
 [Read or listen to the rest here.]( http://escapepod.org/2017/09/07/ep592-when-all-the-clocks-are-wrong/)
 
