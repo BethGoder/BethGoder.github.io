@@ -14,6 +14,7 @@ permalink: /publications/
 
 
 #### __2017__
+["When All the Clocks Are Wrong."](http://escapepod.org/2017/09/07/ep592-when-all-the-clocks-are-wrong/) _Escape Pod_, September 2017
 
 ["Pulling Secrets from Stones."](https://www.amazon.com/Mythic-3-Summer-2017/dp/1945810076) _Mythic_, June 2017
 
