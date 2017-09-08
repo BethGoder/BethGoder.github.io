@@ -5,10 +5,6 @@ permalink: /publications/
 ---
 
 
-#### __Forthcoming__
-
-
-"When All the Clocks Are Wrong." _Escape Pod_, September 2017
 
 
 
