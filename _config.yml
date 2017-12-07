@@ -2,7 +2,7 @@
 title: Beth Goder
 email: beth.goder@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Beth Goder works as an archivist, processing the papers of economists, scientists, and other interesting folks. Her stories have appeared in Escape Pod, Mothership Zeta, and an anthology from Flame Tree Press.
+  Beth Goder is an author and archivist whose stories have appeared in Escape Pod, Mothership Zeta, and an anthology from Flame Tree Press.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://bethgoder.com" # the base hostname & protocol for your site
 
