@@ -35,6 +35,7 @@ permalink: /publications/
 
 ["The Wish Giver."](https://zeteticrecord.org/2016/02/the-wish-giver/) _Zetetic: A Record of Unusual Inquiry_, February 2016
 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Reprinted](http://www.mirrordancefantasy.com/2017/12/the-wish-giver.html) in _Mirror Dance_, December 2017
 
 #### __2015__
 
