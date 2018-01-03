@@ -9,7 +9,7 @@ permalink: /publications/
 "How to Identify an Alien Shark." _Fireside_, TBA
 
 
-"The Great Scientist Rivalry on Planet Sourdough." _5X5 Project_, charity anthology, TBA
+"The Great Scientist Rivalry on Planet Sourdough." _5X5 Project_, charity anthology, March 2018
 
 
 
