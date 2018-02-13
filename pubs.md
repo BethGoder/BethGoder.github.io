@@ -12,6 +12,9 @@ permalink: /publications/
 "The Great Scientist Rivalry on Planet Sourdough." _5X5 Project_, charity anthology, March 2018
 
 
+"Our Weight on Other Worlds." _Factor Four Magazine_, April 2018
+
+
 
 #### __2017__
 ["When All the Clocks Are Wrong."](http://escapepod.org/2017/09/07/ep592-when-all-the-clocks-are-wrong/) _Escape Pod_, September 2017
