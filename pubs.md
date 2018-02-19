@@ -27,6 +27,7 @@ permalink: /publications/
 #### __2016__
 
 ["The Forgetting Place."](https://zeteticrecord.org/2016/11/the-forgetting-place/) _Zetetic: A Record of Unusual Inquiry_, November 2016
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Podcast](http://www.centropicoracle.com/library/F0051_TheForgettingPlace.php) at _The Centropic Oracle_
 
 ["Murder or a Duck."](http://escapepod.org/2016/10/13/ep545-murder-or-a-duck/) _Escape Pod_, October 2016
 
