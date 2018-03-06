@@ -8,11 +8,11 @@ permalink: /publications/
 #### __Upcoming Publications__
 "How to Identify an Alien Shark." _Fireside_, TBA
 
-
-"The Great Scientist Rivalry on Planet Sourdough." _5X5 Project_, charity anthology, March 2018
-
-
 "Our Weight on Other Worlds." _Factor Four Magazine_, April 2018
+
+
+####__2018__
+"The Great Scientist Rivalry on Planet Sourdough." [_5X5 Project_](http://x1.reading5x5.com/), charity anthology, March 2018
 
 
 
