@@ -11,7 +11,7 @@ permalink: /publications/
 "Our Weight on Other Worlds." _Factor Four Magazine_, April 2018
 
 
-####__2018__
+#### __2018__
 "The Great Scientist Rivalry on Planet Sourdough." [_5X5 Project_](http://x1.reading5x5.com/), charity anthology, March 2018
 
 
