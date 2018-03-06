@@ -12,7 +12,7 @@ permalink: /publications/
 
 
 #### __2018__
-"The Great Scientist Rivalry on Planet Sourdough." [_5X5 Project_](http://x1.reading5x5.com/), charity anthology, March 2018
+"The Great Scientist Rivalry on Planet Sourdough." [Reading 5x5](http://x1.reading5x5.com/), charity anthology, March 2018
 
 
 
