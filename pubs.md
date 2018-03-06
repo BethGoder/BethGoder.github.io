@@ -15,7 +15,6 @@ permalink: /publications/
 "The Great Scientist Rivalry on Planet Sourdough." [Reading 5x5](http://x1.reading5x5.com/), charity anthology, March 2018
 
 
-
 #### __2017__
 ["When All the Clocks Are Wrong."](http://escapepod.org/2017/09/07/ep592-when-all-the-clocks-are-wrong/) _Escape Pod_, September 2017
 
