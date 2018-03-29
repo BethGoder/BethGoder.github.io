@@ -3,7 +3,7 @@ title: New Story, "Our Weight on Other Worlds"
 date: 2018-03-29 010:24:58
 ---
 
-I'm so pleased to announce that I have a new story in the first issue of Factor Four Magazine. "Our Weight on Other Worlds" is a flash fiction story about home, family and tension between wanting a new life and clinging to what you have.
+I'm so pleased to announce that I have a new story in the first issue of Factor Four Magazine. "Our Weight on Other Worlds" is a flash fiction story about home, family, and tension between wanting a new life and clinging to what you have.
 
 Snippet:
 > The spaceship leaves in two hours. It's not enough time for Clara to decide.
