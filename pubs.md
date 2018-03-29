@@ -6,12 +6,14 @@ permalink: /publications/
 
 
 #### __Upcoming Publications__
-"How to Identify an Alien Shark." _Fireside_, TBA
+"How to Identify an Alien Shark." _Fireside_, September 2018
 
-"Our Weight on Other Worlds." _Factor Four Magazine_, April 2018
+
 
 
 #### __2018__
+"Our Weight on Other Worlds." [_Factor Four Magazine_](http://factorfourmag.com/issue-1-april-2018/), April 2018
+
 "The Great Scientist Rivalry on Planet Sourdough." [Reading 5x5](http://x1.reading5x5.com/), charity anthology, March 2018
 
 
