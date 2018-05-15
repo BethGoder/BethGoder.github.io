@@ -3,16 +3,28 @@
 
   {% include head.html %}
 
-  <body class="">
+  <body style="background: #f6f7f9">
+  <div style="display: flex; flex-direction: column;">
+<div style="text-align: center; padding-bottom: 12px; padding-left: 86px"">
+<div style="font-size: 56px">
+Beth Goder
+</div>
+<div class="topbannertitle">
+Author and Archivist
+</div>
+</div>
 
+<div style="display: flex">
     {% include sidebar.html %}
 
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
          content to avoid any CSS collisions with our real content. -->
-    <div class="wrap">
+    <div class="wrap" style="background: white; border: 1px solid #eee;"">
       <div class="container content">
         {{ content }}
       </div>
     </div>
+   </div>
+   </div>
   </body>
 </html>
