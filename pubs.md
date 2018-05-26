@@ -35,7 +35,7 @@ permalink: /publications/
 
 ["Murder or a Duck."](http://escapepod.org/2016/10/13/ep545-murder-or-a-duck/) _Escape Pod_, October 2016
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reprinted in [_Time Travel Anthology_](http://flametreepublishing.com/Time-Travel-Short-Stories.html) from Flame Tree Press, August 2017.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reprinted in [_Time Travel Anthology_](http://flametreepublishing.com/Time-Travel-Short-Stories.html) from Flame Tree Press, August 2017
 
 "Eating the Sun." _Mothership Zeta_, [Issue 4](http://mothershipzeta.org/2016/07/28/issue-4-is-out-now/), July 2016
 
