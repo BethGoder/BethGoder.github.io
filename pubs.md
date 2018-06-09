@@ -6,6 +6,8 @@ permalink: /publications/
 
 
 #### __Upcoming Publications__
+"How to Say I Love You With Wikipedia," _Fireside_, TBA
+
 "Move Fast and Break Things," _Factor Four Magazine_, July 2018
 
 "How to Identify an Alien Shark." _Fireside_, September 2018
