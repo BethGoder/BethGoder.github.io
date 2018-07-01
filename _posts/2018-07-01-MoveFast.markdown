@@ -15,6 +15,6 @@ Excerpt:
 
 The story was inspired by this poster hanging in my office.
 
-![Move Fast and Break Things] (/images/move.png)
+![Move Fast and Break Things](/images/move.png)
 
 I'm very excited to be in another issue of Factor Four!
