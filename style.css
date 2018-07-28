@@ -6,6 +6,7 @@
 
 .wash a {
   text-decoration: none;
+  color: #268bd2;
 }
 
 .content {
@@ -29,7 +30,6 @@
   flex-shrink: 0;
   width: 120px;
 }
-
 .about-icons {
   display: flex;
   align-items: center;
@@ -43,4 +43,12 @@
 
 .publications h4 {
   font-weight: bold;
+}
+
+.publications a:hover {
+  text-decoration: underline;
+}
+
+.publications p > p {
+  margin-top: 0;
 }
