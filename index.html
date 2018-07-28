@@ -1,38 +1,62 @@
----
-layout: default
-title: Home
----
-
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url | prepend: site.baseurl }}">
-        {{ post.title }}
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+  <title>Beth Goder</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="wash">
+<div class="content">
+   <div class="about-right">
+    <img src="photo.jpg" class="about-photo" />
+    <div class="about-icons">
+      <a href="https://twitter.com/Beth_Goder">
+      <!-- Twitter icon -->
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm6.066 9.645c.183 4.04-2.83 8.544-8.164 8.544-1.622 0-3.131-.476-4.402-1.291 1.524.18 3.045-.244 4.252-1.189-1.256-.023-2.317-.854-2.684-1.995.451.086.895.061 1.298-.049-1.381-.278-2.335-1.522-2.304-2.853.388.215.83.344 1.301.359-1.279-.855-1.641-2.544-.889-3.835 1.416 1.738 3.533 2.881 5.92 3.001-.419-1.796.944-3.527 2.799-3.527.825 0 1.572.349 2.096.907.654-.128 1.27-.368 1.824-.697-.215.671-.67 1.233-1.263 1.589.581-.07 1.135-.224 1.649-.453-.384.578-.87 1.084-1.433 1.489z"/></svg>
       </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
+      <a href="mailto:beth.goder@gmail.com">
+      <!-- Email icon -->
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 .02c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm6.99 6.98l-6.99 5.666-6.991-5.666h13.981zm.01 10h-14v-8.505l7 5.673 7-5.672v8.504z"/></svg>
+      </a>
+      </div>
+     </div>
+  <div class="about">
+    <div class="about-text">
+      <h1>Beth Goder</h1>
+      Beth Goder is an author and archivist whose stories have appeared in Escape Pod, Mothership Zeta, and an anthology from Flame Tree Press.
+    </div>
   </div>
-  {% endfor %}
-</div>
+  <div class="publications">
+    <h4>Upcoming Publications</h4>
+    <p>“How to Say I Love You With Wikipedia,” <em>Fireside</em>, TBA</p>
+    <p>“Move Fast and Break Things,” <em>Factor Four Magazine</em>, July 2018</p>
+    <p>“How to Identify an Alien Shark.” <em>Fireside</em>, September 2018</p>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+    <h4>2018</h4>
+    <p>“Our Weight on Other Worlds.” <a href="http://factorfourmag.com/issue-1-april-2018/"><em>Factor Four Magazine</em></a>, April 2018</p>
+    <p>“The Great Scientist Rivalry on Planet Sourdough.” <a href="http://x1.reading5x5.com/">Reading 5x5</a>, charity anthology, March 2018</p>
 
+    <h4>2017</h4>
+    <p><a href="http://escapepod.org/2017/09/07/ep592-when-all-the-clocks-are-wrong/">“When All the Clocks Are Wrong.”</a> <em>Escape Pod</em>, September 2017</p>
+    <p><a href="https://www.amazon.com/Mythic-3-Summer-2017/dp/1945810076">“Pulling Secrets from Stones.”</a> <em>Mythic</em>, June 2017</p>
+    <p><a href="http://magazine.metaphorosis.com/story/2017/to-the-eggplant-cannon-beth-goder/">“To the Eggplant Cannon.” </a>  <em>Metaphorosis</em>, April 2017</p>
+
+    <h4>2016</h4>
+    <p><a href="https://zeteticrecord.org/2016/11/the-forgetting-place/">“The Forgetting Place.”</a> <em>Zetetic: A Record of Unusual Inquiry</em>, November 2016</p>
+    <p>      <a href="http://www.centropicoracle.com/library/F0051_TheForgettingPlace.php">Podcast</a> at <em>The Centropic Oracle</em></p>
+    <p><a href="http://escapepod.org/2016/10/13/ep545-murder-or-a-duck/">“Murder or a Duck.”</a> <em>Escape Pod</em>, October 2016</p>
+    <p>       Reprinted in <a href="http://flametreepublishing.com/Time-Travel-Short-Stories.html"><em>Time Travel Anthology</em></a> from Flame Tree Press, August 2017</p>
+    <p>“Eating the Sun.” <em>Mothership Zeta</em>, <a href="http://mothershipzeta.org/2016/07/28/issue-4-is-out-now/">Issue 4</a>, July 2016</p>
+    <p><a href="http://escapepod.org/2016/02/29/ep523-windows/">“Windows.”</a> <em>Escape Pod</em>, February 2016</p>
+    <p><a href="https://zeteticrecord.org/2016/02/the-wish-giver/">“The Wish Giver.”</a> <em>Zetetic: A Record of Unusual Inquiry</em>, February 2016</p>
+    <p>       <a href="http://www.mirrordancefantasy.com/2017/12/the-wish-giver.html">Reprinted</a> in <em>Mirror Dance</em>, December 2017</p>
+
+    <h4>2015</h4>
+    <p><a href="http://freezeframefiction.com/read/q6-flash-fiction/the-sound-that-carries-across-the-ocean-by-beth-goder/">“The Sound That Carries Across the Ocean.”</a> <em>Freeze Frame Fiction</em>, October 2015</p>
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,46 @@
+.wash {
+  background-color: #f6f7f9;
+  padding: 36px;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+.wash a {
+  text-decoration: none;
+}
+
+.content {
+  width: 800px;
+  margin: auto;
+  background: white;
+  border: 1px solid #eee;
+  padding: 20px;
+}
+
+.about h1 {
+  margin-top: 0;
+}
+
+.about-right {
+  margin-left: 12px;
+  float: right;
+}
+
+.about-photo {
+  flex-shrink: 0;
+  width: 120px;
+}
+
+.about-icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2px;
+}
+
+.about-icons a:first-child {
+  margin-right: 8px;
+}
+
+.publications h4 {
+  font-weight: bold;
+}
