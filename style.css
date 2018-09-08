@@ -2,6 +2,7 @@
   background-color: #f6f7f9;
   padding: 36px;
   font-family: 'Helvetica', 'Arial', sans-serif;
+  font-size: 21px;
 }
 
 .wash a {
@@ -18,24 +19,30 @@
 }
 
 .about h1 {
+  font-size: 48px;
   margin-top: 0;
 }
 
 .about-right {
-  margin-left: 12px;
+  margin-left: 32px;
   float: right;
   padding: 4px 2px;
 }
 
 .about-photo {
+  border-radius: 50%;
   flex-shrink: 0;
+  height: 120px;
+  object-fit: cover;
+  object-position: 0 -4px;
   width: 120px;
 }
+
 .about-icons {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-top: 2px;
+  margin-top: 4px;
 }
 
 .about-icons a:first-child {
@@ -56,6 +63,21 @@
 }
 
 .publications > div > div {
-  font-size: 12px;
+  font-size: 16px;
   color: #444;
+}
+
+@media only screen and (max-width: 800px)  {
+  .wash {
+    margin: 0;
+    padding: 0;
+  }
+  .content {
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0;
+    background: white;
+    border: 0;
+    padding: 20px;
+  }
 }
