@@ -67,6 +67,10 @@
   color: #444;
 }
 
+.reprint {
+  margin: 1px 0 0 1px;
+}
+
 @media only screen and (max-width: 800px)  {
   .wash {
     margin: 0;
