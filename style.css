@@ -1,7 +1,7 @@
 .wash {
   background-color: #f6f7f9;
   padding: 36px;
-  font-family: system-ui, 'Helvetica', 'Arial', sans-serif;
+  font-family: system-ui, "Helvetica", "Arial", sans-serif;
   font-size: 20px;
 }
 
@@ -14,10 +14,12 @@
   width: 900px;
   margin: auto;
   background: white;
-  border: 1px solid #C9CCD1;
+  border: 1px solid #c9ccd1;
   padding: 20px 32px;
-  box-shadow: 0px 1px 1px rgb(0 0 0 / 10%), 0px 2px 8px rgb(0 0 0 / 10%);
-  border-radius: 12px
+  box-shadow:
+    0px 1px 1px rgb(0 0 0 / 10%),
+    0px 2px 8px rgb(0 0 0 / 10%);
+  border-radius: 12px;
 }
 
 .about h1 {
@@ -75,12 +77,12 @@
 }
 
 .reprint-list {
-    margin: 0;
-    font-size: 18px;
-    list-style-type: circle;
+  margin: 0;
+  font-size: 18px;
+  list-style-type: circle;
 }
 
-@media only screen and (max-width: 800px)  {
+@media only screen and (max-width: 800px) {
   .wash {
     margin: 0;
     padding: 0;
@@ -93,4 +95,68 @@
     border: 0;
     padding: 20px;
   }
+}
+
+.newsletter-form {
+  display: flex;
+  align-items: center;
+  background-color: #f6f7f9;
+  padding: 12px;
+  border-radius: 8px;
+  width: 100%;
+  margin-top: 64px;
+  box-sizing: border-box;
+  justify-content: space-between;
+}
+
+.newsletter-form-text {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.newsletter-form-text h4 {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.newsletter-form-subtitle {
+  font-size: 14px;
+  color: #444;
+}
+
+.hidden {
+  display: none;
+}
+
+.newsletter-form-form button {
+  border: 0;
+  outline: 0;
+  font-size: 16px;
+  color: #fff;
+  font-weight: bold;
+  padding: 8px;
+  background-color: #46ae44;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.newsletter-form-form input {
+  border-radius: 4px;
+  color: #000;
+  font-size: 16px;
+  border: 1px solid #c9ccd1;
+  height: 34px;
+  box-sizing: border-box;
+  padding-left: 8px;
+  width: 300px;
+}
+
+.newsletter-form-form input:focus {
+  outline: 2px solid #268bd2;
+}
+
+.newsletter-form-form button:hover {
+  background-color: #3d923b;
 }
