@@ -5,6 +5,10 @@
   font-size: 20px;
 }
 
+.wash input {
+  font-family: system-ui, 'Helvetica', 'Arial', sans-serif;
+}
+
 .wash a {
   text-decoration: none;
   color: #268bd2;
@@ -137,6 +141,7 @@
   background-color: #46ae44;
   border-radius: 4px;
   cursor: pointer;
+  height: 34px;
 }
 
 .newsletter-form-form input {
@@ -148,6 +153,12 @@
   box-sizing: border-box;
   padding-left: 8px;
   width: 300px;
+}
+
+#subscribe-form {
+  display: flex;
+  align-items: center;
+  gap: 8px;
 }
 
 .newsletter-form-form input:focus {
