@@ -52,10 +52,17 @@
   align-items: center;
   justify-content: center;
   margin-top: 4px;
+  gap: 4px;
+  margin-left: 8px;
 }
 
-.about-icons a:first-child {
-  margin-right: 8px;
+.about-icons svg {
+  height: 24px;
+  color: #000;
+}
+
+.about-icons .instagram {
+  margin-left: -5px;
 }
 
 .publications h4 {
