@@ -128,21 +128,30 @@
   color: #fff;
   font-weight: bold;
   padding: 8px;
-  background-color: #46ae44;
-  border-radius: 4px;
+  background-color: #147b29;
+  border-radius: 8px;
   cursor: pointer;
-  height: 34px;
+  height: 36px;
 }
 
 .newsletter-form-form input {
-  border-radius: 4px;
+  border-radius: 8px;
   color: #000;
   font-size: 16px;
-  border: 1px solid #c9ccd1;
-  height: 34px;
+  border: 1px solid #ccd3db;
+  height: 36px;
   box-sizing: border-box;
   padding-left: 8px;
   width: 300px;
+}
+
+.newsletter-form-form input:hover {
+  box-shadow: inset 0 0 0 3px rgba(204, 211, 219, 0.3);
+}
+
+.newsletter-form-form input:focus {
+  border-color: rgb(0, 100, 224);
+  box-shadow: rgba(1, 113, 227, 0.3) 0px 0px 0px 3px inset;
 }
 
 #subscribe-form {
@@ -155,8 +164,14 @@
   outline: 2px solid #268bd2;
 }
 
-.newsletter-form-form button:hover {
-  background-color: #3d923b;
+.newsletter-form-form button:hover,
+.newsletter-form-form button:focus {
+  background-color: #086d29;
+}
+
+.newsletter-form-form button:focus {
+  outline: 2px solid #086d29;
+  outline-offset: 1px;
 }
 
 @media only screen and (max-width: 1024px) {
