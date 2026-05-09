@@ -7,6 +7,7 @@
   --text-link: #0064e0;
   --icon-color: #000;
   --border-card: #e6eaee;
+  --bg-input: #ffffff;
   --border-input: #ccd3db;
   --shadow-card: #0000001a;
   --input-hover: #ccd3db4d;
@@ -28,6 +29,7 @@
     --text-link: #3e9efb;
     --icon-color: #e0e0e0;
     --border-card: #444;
+    --bg-input: #1f1f22;
     --border-input: #555;
     --shadow-card: #0000004d;
     --input-hover: #5555554d;
@@ -179,6 +181,7 @@
 
 .newsletter-form-form input {
   border-radius: 8px;
+  background-color: var(--bg-input);
   color: var(--text-primary);
   font-size: 16px;
   border: 1px solid var(--border-input);
