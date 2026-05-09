@@ -1,9 +1,51 @@
+:root {
+  --bg-page: #f1f4f7;
+  --bg-card: #ffffff;
+  --bg-inset: #f1f4f7;
+  --text-primary: #0a1317;
+  --text-secondary: #444;
+  --text-link: #0064e0;
+  --icon-color: #000;
+  --border-card: #e6eaee;
+  --border-input: #ccd3db;
+  --shadow-card: #0000001a;
+  --input-hover: #ccd3db4d;
+  --input-focus-border: #0064e0;
+  --input-focus-shadow: #0171e34d;
+  --input-focus-outline: #268bd2;
+  --btn-bg: #147b29;
+  --btn-bg-hover: #086d29;
+  --btn-text: #fff;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-page: #111112;
+    --bg-card: #1f1f22;
+    --bg-inset: #111112;
+    --text-primary: #dfe2e5;
+    --text-secondary: #aaafb5;
+    --text-link: #3e9efb;
+    --icon-color: #e0e0e0;
+    --border-card: #444;
+    --border-input: #555;
+    --shadow-card: #0000004d;
+    --input-hover: #5555554d;
+    --input-focus-border: #5b9ef5;
+    --input-focus-shadow: #5b9ef54d;
+    --input-focus-outline: #5b9ef5;
+    --btn-bg: #1a9e35;
+    --btn-bg-hover: #15802b;
+    --btn-text: #fff;
+  }
+}
+
 .wash {
-  background-color: #f1f4f7;
+  background-color: var(--bg-page);
   padding: 36px;
   font-family: system-ui, 'Helvetica', 'Arial', sans-serif;
   font-size: 20px;
-  color: #0a1317;
+  color: var(--text-primary);
 }
 
 .wash input {
@@ -12,18 +54,18 @@
 
 .wash a {
   text-decoration: none;
-  color: #0064e0;
+  color: var(--text-link);
 }
 
 .content {
   width: 900px;
   margin: auto;
-  background: white;
-  border: 1px solid #e6eaee;
+  background: var(--bg-card);
+  border: 1px solid var(--border-card);
   padding: 20px 32px;
   box-shadow:
-    0px 1px 1px #0000001a,
-    0px 2px 8px #0000001a;
+    0px 1px 1px var(--shadow-card),
+    0px 2px 8px var(--shadow-card);
   border-radius: 12px;
 }
 
@@ -62,7 +104,7 @@
 
 .about-icons svg {
   height: 24px;
-  color: #000;
+  color: var(--icon-color);
 }
 
 .about-icons .instagram {
@@ -91,7 +133,7 @@
 .newsletter-form {
   display: flex;
   align-items: center;
-  background-color: #f1f4f7;
+  background-color: var(--bg-inset);
   padding: 12px;
   border-radius: 8px;
   width: 100%;
@@ -115,7 +157,7 @@
 
 .newsletter-form-subtitle {
   font-size: 14px;
-  color: #444;
+  color: var(--text-secondary);
 }
 
 .hidden {
@@ -126,10 +168,10 @@
   border: 0;
   outline: 0;
   font-size: 16px;
-  color: #fff;
+  color: var(--btn-text);
   font-weight: bold;
   padding: 8px;
-  background-color: #147b29;
+  background-color: var(--btn-bg);
   border-radius: 8px;
   cursor: pointer;
   height: 36px;
@@ -137,9 +179,9 @@
 
 .newsletter-form-form input {
   border-radius: 8px;
-  color: #000;
+  color: var(--text-primary);
   font-size: 16px;
-  border: 1px solid #ccd3db;
+  border: 1px solid var(--border-input);
   height: 36px;
   box-sizing: border-box;
   padding-left: 8px;
@@ -147,13 +189,13 @@
 }
 
 .newsletter-form-form input:hover {
-  box-shadow: inset 0 0 0 3px #ccd3db4d;
+  box-shadow: inset 0 0 0 3px var(--input-hover);
 }
 
 .newsletter-form-form input:focus {
-  border-color: #0064e0;
-  box-shadow: inset 0px 0px 0px 3px #0171e34d;
-  outline: 1px solid #268bd2;
+  border-color: var(--input-focus-border);
+  box-shadow: inset 0px 0px 0px 3px var(--input-focus-shadow);
+  outline: 1px solid var(--input-focus-outline);
 }
 
 #subscribe-form {
@@ -164,11 +206,11 @@
 
 .newsletter-form-form button:hover,
 .newsletter-form-form button:focus {
-  background-color: #086d29;
+  background-color: var(--btn-bg-hover);
 }
 
 .newsletter-form-form button:focus {
-  outline: 2px solid #086d29;
+  outline: 2px solid var(--btn-bg-hover);
   outline-offset: 1px;
 }
 
@@ -181,7 +223,7 @@
     width: 100%;
     box-sizing: border-box;
     margin: 0;
-    background: white;
+    background: var(--bg-card);
     border: 0;
     padding: 20px;
   }
