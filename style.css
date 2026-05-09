@@ -1,8 +1,9 @@
 .wash {
-  background-color: #f6f7f9;
+  background-color: #f1f4f7;
   padding: 36px;
   font-family: system-ui, 'Helvetica', 'Arial', sans-serif;
   font-size: 20px;
+  color: rgb(10, 19, 23);
 }
 
 .wash input {
@@ -11,14 +12,14 @@
 
 .wash a {
   text-decoration: none;
-  color: #268bd2;
+  color: rgb(0, 100, 224);
 }
 
 .content {
   width: 900px;
   margin: auto;
   background: white;
-  border: 1px solid #c9ccd1;
+  border: 1px solid #e6eaee;
   padding: 20px 32px;
   box-shadow:
     0px 1px 1px rgb(0 0 0 / 10%),
@@ -151,17 +152,14 @@
 
 .newsletter-form-form input:focus {
   border-color: rgb(0, 100, 224);
-  box-shadow: rgba(1, 113, 227, 0.3) 0px 0px 0px 3px inset;
+  box-shadow: inset 0px 0px 0px 3px rgba(1, 113, 227, 0.3);
+  outline: 2px solid #268bd2;
 }
 
 #subscribe-form {
   display: flex;
   align-items: center;
   gap: 8px;
-}
-
-.newsletter-form-form input:focus {
-  outline: 2px solid #268bd2;
 }
 
 .newsletter-form-form button:hover,
