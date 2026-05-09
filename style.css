@@ -44,7 +44,6 @@
 
 .about-photo {
   border-radius: 50%;
-  flex-shrink: 0;
   height: 120px;
   object-fit: cover;
   object-position: 0 -4px;
@@ -80,11 +79,6 @@
 
 .publications > div {
   margin: 12px 0;
-}
-
-.publications > div > div {
-  font-size: 16px;
-  color: #444;
 }
 
 .reprint-list {
