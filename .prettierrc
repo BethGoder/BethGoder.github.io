@@ -4,5 +4,7 @@
   "bracketSameLine": true,
   "arrowParens": "avoid",
   "bracketSpacing": false,
-  "singleQuote": true
+  "singleQuote": true,
+  "htmlWhitespaceSensitivity": "ignore",
+  "printWidth": 120
 }
