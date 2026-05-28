@@ -44,7 +44,7 @@
 
 .wash {
   background-color: var(--bg-page);
-  padding: 36px;
+  padding: 18px 36px 36px;
   font-family: system-ui, 'Helvetica', 'Arial', sans-serif;
   font-size: 20px;
   color: var(--text-primary);
@@ -59,23 +59,74 @@
   color: var(--text-link);
 }
 
-.content {
+.page-wrapper {
   width: 900px;
   margin: auto;
+  padding-top: 40px;
+  position: relative;
+}
+
+.tabs {
+  display: flex;
+  justify-content: flex-end;
+  gap: 4px;
+  position: absolute;
+  right: 1px;
+  top: 0;
+  z-index: 200;
+}
+
+.tab {
+  display: block;
+  padding: 10px 24px;
+  border-radius: 10px 10px 0 0;
+  text-decoration: none;
+  font-size: 17px;
+  font-weight: 600;
+  border-bottom: none;
+  position: relative;
+  color: var(--text-secondary);
+}
+
+.tab {
+  color: var(--text-secondary);
+}
+
+.wash .tabs .tab {
+  color: var(--text-secondary);
+}
+
+.wash .tabs .tab:hover {
+  color: var(--text-primary);
+}
+
+.tab.active {
+  border-bottom: 1px solid var(--bg-card);
+  background: var(--bg-card);
+  color: var(--text-primary);
+  box-shadow:
+    0px 1px 1px var(--shadow-card),
+    0px 2px 8px var(--shadow-card);
+  clip-path: inset(-15px -15px 0px -15px);
+}
+
+.content {
+  position: relative;
+  z-index: 1;
   background: var(--bg-card);
   border: 1px solid var(--border-card);
   padding: 20px 32px;
   box-shadow:
     0px 1px 1px var(--shadow-card),
     0px 2px 8px var(--shadow-card);
-  border-radius: 12px;
+  border-radius: 12px 0 12px 12px;
 }
 
 .about {
   min-height: 166px;
 }
 
-.about h1 {
+h1 {
   font-size: 48px;
   margin-top: 0;
   margin-bottom: 0;
@@ -113,7 +164,7 @@
   margin-left: -5px;
 }
 
-.publications h4 {
+.publications h3 {
   font-weight: bold;
   margin-bottom: -2px;
 }
@@ -222,12 +273,29 @@
     margin: 0;
     padding: 0;
   }
+  .page-wrapper {
+    width: 100%;
+  }
+  .tabs {
+    padding-top: 4px;
+    background: var(--bg-page);
+    justify-content: flex-end;
+  }
+  .tab {
+    border: none;
+    border-radius: 8px 8px 0 0;
+    padding: 8px 20px;
+  }
+  .tab.active {
+    border: none;
+  }
   .content {
     width: 100%;
     box-sizing: border-box;
     margin: 0;
     background: var(--bg-card);
     border: 0;
+    border-radius: 0;
     padding: 20px;
   }
   .newsletter-form {
