@@ -164,6 +164,41 @@ h1 {
   margin-left: -5px;
 }
 
+.recommended-heading {
+  margin-top: 40px;
+}
+
+.recommended {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  margin-top: 12px;
+}
+
+.recommended-card {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.wash a.recommended-card {
+  color: var(--text-primary);
+}
+
+.recommended-card img {
+  width: 100%;
+  aspect-ratio: 227 / 350;
+  object-fit: cover;
+  object-position: top;
+}
+
+.recommended-card:hover {
+  text-decoration: underline;
+}
+
 .publications h3 {
   font-weight: bold;
   margin-bottom: -2px;
@@ -297,6 +332,9 @@ h1 {
     border: 0;
     border-radius: 0;
     padding: 20px;
+  }
+  .recommended {
+    grid-template-columns: repeat(2, 1fr);
   }
   .newsletter-form {
     flex-direction: column;
