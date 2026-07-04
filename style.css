@@ -194,6 +194,7 @@ h1 {
 
 .recommended-card img {
   width: 100%;
+  height: auto;
   aspect-ratio: 227 / 350;
   object-fit: cover;
   object-position: top;
