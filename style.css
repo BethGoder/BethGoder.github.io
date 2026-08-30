@@ -14,9 +14,14 @@
   --input-focus-border: #0064e0;
   --input-focus-shadow: #0171e34d;
   --input-focus-outline: #268bd2;
-  --btn-bg: #147b29;
-  --btn-bg-hover: #086d29;
-  --btn-text: #fff;
+  --btn-bg: #d5d9de;
+  --btn-bg-hover: #b1bac3;
+  --btn-text: #22272d;
+  --btn-focus: #0f7a76;
+  --kickstarter-bg: #c4eec8;
+  --kickstarter-text: #0c3410;
+  --kickstarter-button: #087a3e;
+  --kickstarter-button-hover: #056532;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -36,9 +41,13 @@
     --input-focus-border: #5b9ef5;
     --input-focus-shadow: #5b9ef54d;
     --input-focus-outline: #5b9ef5;
-    --btn-bg: #1a9e35;
-    --btn-bg-hover: #15802b;
-    --btn-text: #fff;
+    --btn-bg: #45505b;
+    --btn-bg-hover: #576573;
+    --btn-text: #f1f4f7;
+    --kickstarter-bg: #0c3410;
+    --kickstarter-text: #91e098;
+    --kickstarter-button: #159451;
+    --kickstarter-button-hover: #1caa60;
   }
 }
 
@@ -124,6 +133,55 @@
 
 .tabs:has(.tab.active:last-child) + .content {
   border-radius: 12px 0 12px 12px;
+}
+
+.kickstarter-banner {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 20px;
+  padding: 16px 18px;
+  margin-bottom: 24px;
+  border-radius: 10px;
+  background: var(--kickstarter-bg);
+  color: var(--kickstarter-text);
+}
+
+.kickstarter-banner-copy {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  min-width: 0;
+}
+
+.kickstarter-banner-title {
+  font-size: 22px;
+  font-weight: 750;
+  line-height: 1.25;
+}
+
+.kickstarter-banner-subtitle {
+  font-size: 16px;
+}
+
+.wash a.kickstarter-banner-cta {
+  padding: 10px 14px;
+  border-radius: 8px;
+  background: var(--kickstarter-button);
+  color: #fff;
+  font-size: 16px;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.wash a.kickstarter-banner-cta:hover,
+.wash a.kickstarter-banner-cta:focus {
+  background: var(--kickstarter-button-hover);
+}
+
+.kickstarter-banner-cta:focus-visible {
+  outline: 3px solid var(--input-focus-outline);
+  outline-offset: 2px;
 }
 
 .about {
@@ -260,14 +318,21 @@ h1 {
 .newsletter-form-form button {
   border: 0;
   outline: 0;
-  font-size: 16px;
+  font-size: 14px;
   color: var(--btn-text);
-  font-weight: bold;
-  padding: 8px;
+  font-weight: 500;
+  line-height: 1.25;
+  padding: 0 12px;
   background-color: var(--btn-bg);
-  border-radius: 8px;
+  border-radius: 6px;
   cursor: pointer;
   height: 36px;
+  user-select: none;
+  transition:
+    background-color 150ms cubic-bezier(0.4, 0, 0.2, 1),
+    color 150ms cubic-bezier(0.4, 0, 0.2, 1),
+    opacity 150ms cubic-bezier(0.4, 0, 0.2, 1),
+    transform 150ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .newsletter-form-form input {
@@ -298,14 +363,18 @@ h1 {
   gap: 8px;
 }
 
-.newsletter-form-form button:hover,
-.newsletter-form-form button:focus {
+.newsletter-form-form button:hover {
   background-color: var(--btn-bg-hover);
 }
 
-.newsletter-form-form button:focus {
-  outline: 2px solid var(--btn-bg-hover);
-  outline-offset: 1px;
+.newsletter-form-form button:active {
+  background-color: var(--btn-bg-hover);
+  transform: scale(0.98);
+}
+
+.newsletter-form-form button:focus-visible {
+  outline: 2px solid var(--btn-focus);
+  outline-offset: 3px;
 }
 
 @media only screen and (max-width: 1024px) {
@@ -337,6 +406,13 @@ h1 {
     border: 0;
     border-radius: 0;
     padding: 20px;
+  }
+  .kickstarter-banner {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+  .kickstarter-banner-cta {
+    justify-self: start;
   }
   .recommended {
     grid-template-columns: repeat(2, 1fr);
