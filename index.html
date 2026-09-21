@@ -143,15 +143,17 @@
               placeholder="Email"
               autocomplete="email"
               id="newsletter-email" />
+            <div class="ml-form-recaptcha ml-validate-required newsletter-recaptcha-hidden" id="newsletter-recaptcha">
+              <div id="newsletter-recaptcha-widget"></div>
+            </div>
+            <div class="newsletter-form-validation" id="newsletter-form-validation" aria-live="polite"></div>
             <input type="hidden" name="anticsrf" value="true" />
             <button type="submit">Subscribe</button>
           </form>
         </div>
 
         <div class="newsletter-form newsletter-form-message hidden" id="newsletter-form-message">
-          <div class="newsletter-form-text">
-            Thanks! You will receive a confirmation e-mail, please click on the link inside to complete your sign up.
-          </div>
+          <div class="newsletter-form-text">Thanks! You're now signed up for my newsletter.</div>
         </div>
 
         <div class="newsletter-form newsletter-form-error hidden" id="newsletter-form-error">
